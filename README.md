@@ -7,7 +7,7 @@ Atuo na indústria de TI há 8 anos, desde Analista de Suporte, Consultor de Sof
 
 Trabalhei em pequenos e grandes projetos utilizando principalmente, JavaScript usando Node.js, React,e React Native criando aplicativos multiplataforma.
 
-Já tive contato com IoT, Nuvem da AWS e Ánalise de Dados com Kibana.
+Já tive contato com IoT, Nuvem da AWS e Análise de Dados com Kibana.
 
 ## 📦 Conhecimentos
 - Desenvolvimento de front-end usando React (Redux, Next.js, Styled Components)
