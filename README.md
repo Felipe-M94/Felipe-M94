@@ -1,20 +1,25 @@
 # Felipe Mendonça
-Desenvolvedor Web Full Stack | JavaScript 
+Big Data| IoT| JavaScript 
 
 ## 🧐 Sobre
-Olá, sou Felipe Mendonça, Desenvolvedor JavaScript!
-Atuo na indústria de TI há 8 anos, desde Analista de Suporte, Consultor de Software, Analista de Sistemas e agora como Desenvolvedor.
+Olá, sou Felipe Mendonça, Engenheiro de Dados & Desenvolvedor JavaScript!
+Atuo na indústria de TI há 10 anos, desde Analista de Suporte, Consultor de Software, Analista de Sistemas e Desenvolvedor.
 
-Trabalhei em pequenos e grandes projetos utilizando principalmente, JavaScript, Node.js, React e React Native, criando aplicativos multiplataforma.
+Trabalhei em pequenos e grandes projetos utilizando principalmente, JavaScript, Node.js, Python,  React e React Native, criando aplicativos multiplataforma.
 
-Já tive contato com IoT, Nuvem da AWS e Extração e Análise de Dados com Elasticsearch e Kibana.
+Atualmente trabalho com sistemas para industria, integração entre sistemas e IoT.
 
 ## 📦 Conhecimentos
 - Desenvolvimento de front-end usando React (Redux, Next.js, Styled Components)
 - Desenvolvimento móvel usando React Native (Redux, Styled Components)
 - Desenvolvimento backend usando Node.js (Express, Adonis)
+- Extração de dados com Python
+- SQL Server e MongoDB
+- Elasticsearch e Kibana
+- AWS e GCP
 
 ## 📫 Formação
+- **SENAC** - Pós Graduação em Big Data
 - **UNIP** - Análise e Desenvolvimento de Sistemas
 
 
