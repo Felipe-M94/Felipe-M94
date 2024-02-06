@@ -1,8 +1,9 @@
 # Felipe Mendonça
-Engenheiro de Dados | Desenvolvedor JavaScript | Especialista em Big Data e IoT
+Engenheiro de Dados | Analista de Dados | Desenvolvedor de Software | Especialista em Big Data e IoT
 
 ## 🧐 Sobre
-Olá, sou Felipe Mendonça, um profissional com mais de 10 anos de experiência na indústria de TI, atuando em diversas funções, desde Analista de Suporte até Desenvolvedor e Consultor de Software.
+Olá, 
+Me chamo Felipe, um profissional com mais de 10 anos de experiência na indústria de TI, atuando em diversas funções, desde Analista de Suporte, Desenvolvedor, Consultor de Software e Analista de Sistemas.
 
 Tenho participado de projetos de diferentes escalas, tanto em pequenas como em grandes empresas. Minhas principais tecnologias incluem JavaScript, Node.js, Python, React e React Native, com foco na criação de aplicativos multiplataforma. Atualmente, meu trabalho concentra-se em sistemas para a indústria, integração entre sistemas e IoT.
 
@@ -11,9 +12,9 @@ Tenho participado de projetos de diferentes escalas, tanto em pequenas como em g
 - Desenvolvimento Móvel: React Native (Redux, Styled Components)
 - Desenvolvimento Back-end: Node.js (Express, Adonis)
 - Extração e Manipulação de Dados: Python (Pandas)
-- Bancos de Dados: SQL Server e MongoDB
+- Bancos de Dados: SQL Server, MySQL, PostgreSQL, InfluxDB e MongoDB
 - Ferramentas de Análise: Elasticsearch, Kibana, Grafana, Orange (Data Mining), KNIME (Análise de Dados)
-- Nuvem: AWS e GCP
+- Nuvem: AWS, Azure e GCP
 
 ## 📫 Formação
 - **SENAC** - Pós Graduação em Big Data
