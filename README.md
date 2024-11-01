@@ -3,17 +3,16 @@ Engenheiro de Dados | Analista de Dados | Desenvolvedor de Software | Especialis
 
 ## 🧐 Sobre
 Olá, 
-Me chamo Felipe, um profissional com mais de 10 anos de experiência na indústria de TI, atuando em diversas funções, desde Analista de Suporte, Desenvolvedor, Consultor de Software e Analista de Sistemas.
-
-Tenho participado de projetos de diferentes escalas, tanto em pequenas como em grandes empresas. Minhas principais tecnologias incluem JavaScript, Node.js, Python, React e React Native, com foco na criação de aplicativos multiplataforma. Atualmente, meu trabalho concentra-se em sistemas para a indústria, integração entre sistemas e IoT.
+Sou Felipe, profissional com mais de 10 anos de experiência em TI, atuando em papéis que vão de Analista de Suporte a Desenvolvedor e Analista de Sistemas. Participei de projetos de diferentes portes, utilizando tecnologias como Python, JavaScript, Node.js, React, React Native, SQL, NoSQL, Docker, Apache Airflow, Elasticsearch e Kibana para desenvolver soluções robustas e multiplataforma. Atualmente, concentro meu trabalho em sistemas industriais, integração de sistemas e soluções de IoT, com destaque para criação de pipelines ETL e visualização de dados com ferramentas como Grafana e Power BI.
 
 ## 📦 Conhecimentos
-- Desenvolvimento Front-end: React (Redux, Next.js, Styled Components)
-- Desenvolvimento Móvel: React Native (Redux, Styled Components)
-- Desenvolvimento Back-end: Node.js (Express, Adonis)
-- Extração e Manipulação de Dados: Python (Pandas)
+- Desenvolvimento Front-end: JavaScript
+- Desenvolvimento Móvel: JavaScript (React Native)
+- Desenvolvimento Back-end: Node.js (Express, Adonis), Python
+- Extração e Manipulação de Dados: Python (Pandas), SQL, Node-RED
 - Bancos de Dados: SQL Server, MySQL, PostgreSQL, InfluxDB e MongoDB
-- Ferramentas de Análise: Elasticsearch, Kibana, Grafana, Orange (Data Mining), KNIME (Análise de Dados)
+- Ferramentas de Análise: Elasticsearch, Orange (Data Mining), KNIME (Análise de Dados)
+- Ferramentas de Visualização: Kibana, Grafana, Power BI
 - Nuvem: AWS, Azure e GCP
 
 ## 📫 Formação
