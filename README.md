@@ -11,6 +11,7 @@ Sou Felipe, profissional com mais de 10 anos de experiência em TI, atuando em p
 - Desenvolvimento Back-end: Node.js (Express, Adonis), Python
 - Extração e Manipulação de Dados: Python (Pandas), SQL, Node-RED
 - Bancos de Dados: SQL Server, MySQL, PostgreSQL, InfluxDB e MongoDB
+- Ferramentas de Orquestação: Apache Airflow
 - Ferramentas de Análise: Elasticsearch, Orange (Data Mining), KNIME (Análise de Dados)
 - Ferramentas de Visualização: Kibana, Grafana, Power BI
 - Nuvem: AWS, Azure e GCP
