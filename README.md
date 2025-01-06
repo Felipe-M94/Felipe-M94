@@ -8,7 +8,7 @@ Sou Felipe, profissional com mais de 10 anos de experiência em TI, atuando em p
 ## 📦 Conhecimentos
 - Desenvolvimento Front-end: JavaScript
 - Desenvolvimento Móvel: JavaScript (React Native)
-- Desenvolvimento Back-end: Node.js (Express, Adonis), Python
+- Desenvolvimento Back-end: Node.js, Python
 - Extração e Manipulação de Dados: Python (Pandas), SQL, Node-RED
 - Bancos de Dados: SQL Server, MySQL, PostgreSQL, InfluxDB e MongoDB
 - Ferramentas de Orquestação: Apache Airflow
