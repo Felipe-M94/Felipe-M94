@@ -1,29 +1,30 @@
-# Felipe Mendonça
-Engenheiro de Dados | Analista de Dados | Desenvolvedor de Software | Especialista em Big Data e IoT
+# Felipe Mendonça  
+Data Engineer | Analytics Engineer | Software Engineer | Big Data | IoT
 
-## 🧐 Sobre
-Olá, 
-Sou Felipe, profissional com mais de 10 anos de experiência em TI, atuando em papéis que vão de Analista de Suporte a Desenvolvedor e Analista de Sistemas. Participei de projetos de diferentes portes, utilizando tecnologias como Python, JavaScript, Node.js, React, React Native, SQL, NoSQL, Docker, Apache Airflow, Elasticsearch e Kibana para desenvolver soluções robustas e multiplataforma. Atualmente, concentro meu trabalho em sistemas industriais, integração de sistemas e soluções de IoT, com destaque para criação de pipelines ETL e visualização de dados com ferramentas como Grafana e Power BI.
+## 🧐 Sobre  
+Olá!  
+Sou Felipe Mendonça, um profissional com mais de 11 anos de experiência em TI, com uma jornada que abrange desde o suporte técnico até o desenvolvimento de soluções complexas em diversas plataformas. Ao longo da minha carreira, trabalhei com tecnologias como Python, JavaScript, Node.js, React, SQL, NoSQL, Docker, Apache Airflow, Elasticsearch e Kibana para criar soluções robustas e escaláveis. Atualmente, minha atuação é voltada para sistemas industriais, integração de dados e soluções de IoT, com ênfase em pipelines ETL e visualização de dados utilizando ferramentas como Grafana e Power BI. Estou sempre em busca de novas oportunidades para resolver desafios complexos com tecnologia.
 
-## 📦 Conhecimentos
-- Desenvolvimento Front-end: JavaScript
-- Desenvolvimento Móvel: JavaScript (React Native)
-- Desenvolvimento Back-end: Node.js, Python
-- Extração e Manipulação de Dados: Python (Pandas), SQL, Node-RED
-- Bancos de Dados: SQL Server, MySQL, PostgreSQL, InfluxDB e MongoDB
-- Ferramentas de Orquestação: Apache Airflow
-- Ferramentas de Análise: Elasticsearch, Orange (Data Mining), KNIME (Análise de Dados)
-- Ferramentas de Visualização: Kibana, Grafana, Power BI
-- Nuvem: AWS, Azure e GCP
+## 📦 Conhecimentos  
+- **Desenvolvimento Front-end:** JavaScript, React  
+- **Desenvolvimento Móvel:** JavaScript, React Native  
+- **Desenvolvimento Back-end:** Node.js, Python  
+- **Extração e Manipulação de Dados:** Python (Pandas), SQL, Node-RED  
+- **Bancos de Dados:** SQL Server, MySQL, PostgreSQL, InfluxDB, MongoDB, Snowflake  
+- **Orquestração de Fluxos de Trabalho:** Apache Airflow  
+- **Análise de Dados:** Elasticsearch, Orange, KNIME  
+- **Visualização de Dados:** Kibana, Grafana, Power BI  
+- **Nuvem:** AWS, Azure, GCP  
+- **Ferramentas de Engenharia de Dados:** dbt, Databricks
 
-## 📫 Formação
-- **SENAC** - Pós Graduação em Big Data
-- **UNIP** - Análise e Desenvolvimento de Sistemas
+## 📫 Formação  
+- **Pós-graduação em Big Data** — SENAC  
+- **Análise e Desenvolvimento de Sistemas** — UNIP  
 
+## 🌱 Aprendendo  
+- [Python](https://www.python.org/)  
+- [JavaScript](https://www.javascript.com/)  
 
-## 🌱 Aprendendo
-- [Python](https://www.python.org/)
-- [JavaScript](https://www.javascript.com/)
-
-## 📫 Contato
-- [Linkedin](https://www.linkedin.com/in/felipe-mendonca/)
+## 📫 Contato  
+- [Linkedin](https://www.linkedin.com/in/felipe-mendonca/)  
+- [Portfólio](https://felipe-data-portfolio.netlify.app/)
