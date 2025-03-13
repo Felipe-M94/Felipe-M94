@@ -1,30 +1,55 @@
-# Felipe Mendonça  
-Data Engineer | Analytics Engineer | Software Engineer | Big Data | IoT
+<div align="center">
+  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+</div>
 
-## 🧐 Sobre  
-Olá!  
-Sou Felipe Mendonça, um profissional com mais de 11 anos de experiência em TI, com uma jornada que abrange desde o suporte técnico até o desenvolvimento de soluções complexas em diversas plataformas. Ao longo da minha carreira, trabalhei com tecnologias como Python, JavaScript, Node.js, React, SQL, NoSQL, Docker, Apache Airflow, Elasticsearch e Kibana para criar soluções robustas e escaláveis. Atualmente, minha atuação é voltada para sistemas industriais, integração de dados e soluções de IoT, com ênfase em pipelines ETL e visualização de dados utilizando ferramentas como Grafana e Power BI. Estou sempre em busca de novas oportunidades para resolver desafios complexos com tecnologia.
+# Olá, eu sou Felipe Mendonça - Data & Analytics Engineer  
 
-## 📦 Conhecimentos  
-- **Desenvolvimento Front-end:** JavaScript, React  
-- **Desenvolvimento Móvel:** JavaScript, React Native  
-- **Desenvolvimento Back-end:** Node.js, Python  
-- **Extração e Manipulação de Dados:** Python (Pandas), SQL, Node-RED  
-- **Bancos de Dados:** SQL Server, MySQL, PostgreSQL, InfluxDB, MongoDB, Snowflake  
-- **Orquestração de Fluxos de Trabalho:** Apache Airflow  
-- **Análise de Dados:** Elasticsearch, Orange, KNIME  
-- **Visualização de Dados:** Kibana, Grafana, Power BI  
-- **Nuvem:** AWS, Azure, GCP  
-- **Ferramentas de Engenharia de Dados:** dbt, Databricks
+## Sobre mim  
 
-## 📫 Formação  
-- **Pós-graduação em Big Data** — SENAC  
-- **Análise e Desenvolvimento de Sistemas** — UNIP  
+✨ Sou um **Engenheiro de dados e Analytics**, apaixonado por tecnologia e soluções para processamento e análise de dados. Possuo formação em **Análise e Desenvolvimento de Sistemas** e pós-graduação em **Big Data**.  
 
-## 🌱 Aprendendo  
-- [Python](https://www.python.org/)  
-- [JavaScript](https://www.javascript.com/)  
+🚀 Minha experiência inclui **arquitetura de pipelines de dados, ETL/ELT, processamento em tempo real e visualização de dados**. Gosto de explorar novas tecnologias para extrair valor dos dados e gerar insights estratégicos.  
 
-## 📫 Contato  
-- [Linkedin](https://www.linkedin.com/in/felipe-mendonca/)  
-- [Portfólio](https://felipe-data-portfolio.netlify.app/)
+## 💻 Habilidades Técnicas  
+
+<div align="center">
+
+🔹 **Linguagens de Programação:**  
+
+[![My Skills](https://skillicons.dev/icons?i=python,javascript)](https://skillicons.dev)  
+
+🔹 **Banco de Dados e Streaming:**  
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongo,elasticsearch,kafka)](https://skillicons.dev)  
+
+🔹 **Ferramentas e Tecnologias:**  
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,azure,grafana)](https://skillicons.dev)  
+
+</div>
+
+## 🌟 Projetos em Destaque  
+
+Aqui estão alguns dos meus projetos mais recentes, focados em **Engenharia de dados, ETL e Analytics**:  
+
+🔹 **[Smart Traffic Analytics](https://github.com/Felipe-M94/smart_traffic_analytics)**  
+📊 **Objetivo:** Coletar, processar e visualizar dados de tráfego e clima, utilizando pipelines de ETL, bancos de dados e ferramentas de BI. O projeto oferece insights sobre padrões de tráfego urbano e sua relação com as condições climáticas.  
+
+🔹 **[Weather Stream Pipeline on AWS](https://github.com/Felipe-M94/weather-stream-pipeline-aws)**  
+☁️ **Objetivo:** Criar um pipeline de dados integrado, combinando **processamento em tempo real e em lote**. A arquitetura foi projetada para demonstrar captura, transformação e entrega de dados utilizando tecnologias modernas e escaláveis.  
+
+🔹 **[Data Pipeline Showcase](https://github.com/Felipe-M94/data_pipeline_showcase)**  
+🔄 **Objetivo:** Demonstrar a implementação de um pipeline de dados completo, conectando diferentes tecnologias para **ingestão, transformação e análise de dados**.  
+
+## 💡 Vamos Criar Algo Incrível!  
+
+📩 **Quer colaborar em um projeto inovador?** Estou sempre aberto a novas ideias e parcerias! Entre em contato para discutirmos como podemos criar soluções de dados juntos.  
+
+## 🌍 Conecte-se comigo  
+
+[![LinkedIn](https://img.shields.io/badge/-Felipe%20Mendonça-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Felipe-M94/)](https://www.linkedin.com/in/Felipe-M94/)  
+[![GitHub](https://img.shields.io/badge/-Felipe--M94-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Felipe-M94)](https://github.com/Felipe-M94)  
+
+---
+
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-M94&show_icons=true&theme=radical&rank_icon=percentile)
